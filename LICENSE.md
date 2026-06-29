@@ -1,4 +1,4 @@
-# 
+# Léger ChatMind téléchargeur. Téléchargez et installez avec fichiers vérifiés et GUI disponible — rapide, sécurisé et facile à utiliser.
 
 
 
